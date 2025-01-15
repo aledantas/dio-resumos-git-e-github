@@ -13,6 +13,11 @@ Repositório para armazenar sobre Git e Github da Digital Innovation One (https:
 
 ```
 git nit
+Git init
+Git log
+Git reset 
+Git status
+
 ````
 
 ## 🔎 Referências 
